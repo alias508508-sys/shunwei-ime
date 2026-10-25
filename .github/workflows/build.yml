@@ -58,12 +58,13 @@ jobs:
             if ($LASTEXITCODE) { exit $LASTEXITCODE }
           }
       - name: Build EXE installer
+        working-directory: windows
         shell: pwsh
         run: |
-          New-Item -ItemType Directory -Force releases | Out-Null
+          New-Item -ItemType Directory -Force ../releases | Out-Null
           $nsis = "${env:ProgramFiles(x86)}/NSIS/makensis.exe"
           if (!(Test-Path $nsis)) { choco install nsis --yes --no-progress }
-          & $nsis /V2 windows/installer.nsi
+          & $nsis /V2 installer.nsi
           if ($LASTEXITCODE) { exit $LASTEXITCODE }
       - uses: actions/upload-artifact@v4
         with:
