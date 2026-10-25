@@ -16,6 +16,13 @@ struct ITfTextInputProcessorEx: public ITfTextInputProcessor {
 #include <mutex>
 #include "engine.hpp"
 
+// MSVC must use the Windows SDK declaration's linkage for COM entry points.
+#if defined(_MSC_VER)
+#define SHUNWEI_COM_EXPORT STDAPI
+#else
+#define SHUNWEI_COM_EXPORT extern "C" __declspec(dllexport) HRESULT WINAPI
+#endif
+
 static const CLSID CLSID_ShUnwei={0x3db927ad,0xfa61,0x43e6,{0xb9,0xaf,0x3b,0xb5,0xcf,0xfa,0xd2,0xb8}};
 static const GUID PROFILE_ShUnwei={0x8cfab146,0x88b9,0x4a5d,{0x92,0xe0,0x74,0x83,0x76,0x81,0xd1,0x22}};
 static constexpr LANGID Language=0x0804;
@@ -152,16 +159,16 @@ public:
     STDMETHODIMP LockServer(BOOL lock)override{if(lock)++locks;else --locks;return S_OK;}
 };
 extern "C" BOOL WINAPI DllMain(HINSTANCE h,DWORD reason,LPVOID){if(reason==DLL_PROCESS_ATTACH){moduleHandle=h;DisableThreadLibraryCalls(h);}return TRUE;}
-extern "C" __declspec(dllexport) HRESULT WINAPI DllCanUnloadNow(){return objects==0&&locks==0?S_OK:S_FALSE;}
-extern "C" __declspec(dllexport) HRESULT WINAPI DllGetClassObject(REFCLSID clsid,REFIID id,void**out){if(clsid!=CLSID_ShUnwei)return CLASS_E_CLASSNOTAVAILABLE;auto*f=new Factory();HRESULT hr=f->QueryInterface(id,out);f->Release();return hr;}
+SHUNWEI_COM_EXPORT DllCanUnloadNow(){return objects==0&&locks==0?S_OK:S_FALSE;}
+SHUNWEI_COM_EXPORT DllGetClassObject(REFCLSID clsid,REFIID id,void**out){if(clsid!=CLSID_ShUnwei)return CLASS_E_CLASSNOTAVAILABLE;auto*f=new Factory();HRESULT hr=f->QueryInterface(id,out);f->Release();return hr;}
 static std::wstring classKey(){wchar_t guid[64];StringFromGUID2(CLSID_ShUnwei,guid,64);return std::wstring(L"CLSID\\")+guid;}
-extern "C" __declspec(dllexport) HRESULT WINAPI DllUnregisterServer(){
+SHUNWEI_COM_EXPORT DllUnregisterServer(){
     HRESULT init=CoInitializeEx(nullptr,COINIT_APARTMENTTHREADED);ITfInputProcessorProfiles*profiles=nullptr;ITfCategoryMgr*categories=nullptr;
     HRESULT result=S_OK;if(SUCCEEDED(CoCreateInstance(CLSID_TF_CategoryMgr,nullptr,CLSCTX_INPROC_SERVER,IID_ITfCategoryMgr,reinterpret_cast<void**>(&categories)))){categories->UnregisterCategory(CLSID_ShUnwei,GUID_TFCAT_TIP_KEYBOARD,CLSID_ShUnwei);release(categories);}
     if(SUCCEEDED(CoCreateInstance(CLSID_TF_InputProcessorProfiles,nullptr,CLSCTX_INPROC_SERVER,IID_ITfInputProcessorProfiles,reinterpret_cast<void**>(&profiles)))){profiles->RemoveLanguageProfile(CLSID_ShUnwei,Language,PROFILE_ShUnwei);result=profiles->Unregister(CLSID_ShUnwei);release(profiles);}
     LSTATUS erased=RegDeleteTreeW(HKEY_CLASSES_ROOT,classKey().c_str());if(erased!=ERROR_SUCCESS&&erased!=ERROR_FILE_NOT_FOUND)result=HRESULT_FROM_WIN32(erased);if(SUCCEEDED(init))CoUninitialize();return result;
 }
-extern "C" __declspec(dllexport) HRESULT WINAPI DllRegisterServer(){
+SHUNWEI_COM_EXPORT DllRegisterServer(){
     HRESULT init=CoInitializeEx(nullptr,COINIT_APARTMENTTHREADED);const auto path=modulePath();HKEY key=nullptr;std::wstring registry=classKey()+L"\\InprocServer32";
     LSTATUS status=RegCreateKeyExW(HKEY_CLASSES_ROOT,registry.c_str(),0,nullptr,0,KEY_WRITE,nullptr,&key,nullptr);
     if(status!=ERROR_SUCCESS){if(SUCCEEDED(init))CoUninitialize();return HRESULT_FROM_WIN32(status);}
