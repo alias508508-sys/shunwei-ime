@@ -1,0 +1,33 @@
+async (page) => {
+  const results=[];
+  const check=(ok,name)=>{if(!ok)throw new Error(name);results.push(name);};
+  await page.reload();
+  check(await page.getByRole('combobox',{name:'识别方式'}).inputValue()==='chinese','启动默认拼音');
+  await page.getByRole('combobox',{name:'识别方式'}).selectOption('auto');
+  await page.getByRole('textbox',{name:'可选语境'}).fill('正在讨论 AI 工具');
+  const editor=page.getByRole('textbox',{name:'你的文字',exact:true});
+  await editor.click();await page.keyboard.type('aizidongdazi');
+  await page.getByRole('button',{name:'提交候选 AI 自动打字',exact:true}).waitFor();
+  await page.keyboard.press('Space');check(await editor.inputValue()==='AI 自动打字','逐键输入和空格提交');
+  await page.getByRole('button',{name:'撤销上次提交'}).click();check(await editor.inputValue()==='aizidongdazi','提交撤销恢复原文');
+  await editor.fill('');await editor.click();await page.keyboard.type('woaini');await page.keyboard.press('Enter');check(await editor.inputValue()==='woaini','Return 保留原文');
+  await page.keyboard.type('nihao');await page.keyboard.press('Escape');check(await editor.inputValue()==='woaini','Esc 只取消组合');
+  await editor.fill('');await page.keyboard.type('https://example.com/a');await page.keyboard.press('Space');check(await editor.inputValue()==='https://example.com/a','逐键 URL 完整保留');
+  await editor.fill('');await page.keyboard.type('woaini');await page.keyboard.press('ArrowLeft');await page.keyboard.press('ArrowLeft');await page.keyboard.type('x');await page.keyboard.press('Enter');check(await editor.inputValue()==='woaixni','组合中间编辑和原文提交');
+  await editor.fill('');await editor.click();await page.keyboard.type('woaini');await page.keyboard.press('ArrowLeft');await page.keyboard.press('ArrowLeft');await page.keyboard.down('Shift');await page.keyboard.press('ArrowLeft');await page.keyboard.press('ArrowLeft');await page.keyboard.up('Shift');await page.keyboard.type('x');await page.keyboard.press('Enter');check(await editor.inputValue()==='woxni','组合选区替换');
+  await editor.fill('');await editor.click();await page.keyboard.type('aizidongdazi.');await page.keyboard.press('Space');check(await editor.inputValue()==='AI 自动打字.','句点随候选保留');
+  await editor.fill('');await editor.evaluate(element=>{element.dispatchEvent(new CompositionEvent('compositionstart',{bubbles:true,data:''}));element.value='你好';element.dispatchEvent(new InputEvent('input',{bubbles:true,inputType:'insertCompositionText',data:'你好',isComposing:true}));element.dispatchEvent(new CompositionEvent('compositionend',{bubbles:true,data:'你好'}));});check(await page.locator('#candidates button').count()===0&&await editor.inputValue()==='你好','模拟已有中文IME事件不会二次解码');
+  await page.getByRole('combobox',{name:'识别方式'}).selectOption('english');await editor.fill('');await page.keyboard.type('hello world');check(await editor.inputValue()==='hello world','逐键英文锁定保留空格');await page.getByRole('combobox',{name:'识别方式'}).selectOption('auto');
+  await page.getByRole('tab',{name:'修复误输拼音'}).click();
+  await page.getByRole('textbox',{name:'误打成英文的拼音'}).fill('wo yong python xie daima');await page.getByRole('button',{name:'识别这段文字'}).click();
+  await page.getByRole('button',{name:'提交候选 我用 Python 写代码',exact:true}).click();check(await page.locator('#repair-output').inputValue()==='我用 Python 写代码','整串混输修复');
+  await page.getByRole('textbox',{name:'文字',exact:true}).fill('顺位');await page.getByRole('textbox',{name:'拼音，音节用空格分开'}).fill('shun wei');await page.getByRole('button',{name:'添加词条',exact:true}).click();
+  await page.getByRole('textbox',{name:'误打成英文的拼音'}).fill('shunwei');await page.getByRole('button',{name:'识别这段文字'}).click();check(await page.getByRole('button',{name:'提交候选 顺位',exact:true}).count()===1,'用户词条参与解码');
+  await page.reload();check(await page.getByRole('button',{name:'删除词条 顺位'}).count()===1,'用户词条本地持久化');await page.getByRole('button',{name:'删除词条 顺位'}).click();check(await page.getByRole('button',{name:'删除词条 顺位'}).count()===0,'用户词条删除');
+  await page.getByRole('tab',{name:'修复误输拼音'}).click();await page.getByRole('textbox',{name:'误打成英文的拼音'}).fill('woaini');await page.getByRole('combobox',{name:'识别方式'}).selectOption('english');check(await page.getByRole('button',{name:'提交候选 woaini',exact:true}).count()===1,'英文锁定');
+  await page.getByRole('combobox',{name:'识别方式'}).selectOption('auto');await page.getByRole('button',{name:'AI 自动打字',exact:true}).click();
+  await page.screenshot({path:'output/playwright/desktop.png',fullPage:true});
+  await page.setViewportSize({width:390,height:844});
+  check(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth),'手机宽度无横向溢出');await page.screenshot({path:'output/playwright/mobile.png',fullPage:true});
+  await page.setViewportSize({width:1360,height:960});return {passed:results.length,results};
+}

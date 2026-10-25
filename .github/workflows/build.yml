@@ -1,0 +1,71 @@
+name: Build development packages
+on:
+  workflow_dispatch:
+  push:
+    tags: ['v*']
+env:
+  PYTHONUTF8: '1'
+permissions:
+  contents: read
+jobs:
+  macos:
+    runs-on: macos-15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+      - run: npm ci
+      - run: npm test
+      - run: npm run validate-data
+      - run: npm run build:mac
+      - run: bash scripts/package-mac.sh
+      - uses: actions/upload-artifact@v4
+        with:
+          name: macOS-arm64-dmg
+          path: releases/*.dmg
+  windows:
+    runs-on: windows-2022
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: npm ci
+      - run: npm test
+      - run: python scripts/export-windows-data.py
+      - name: Compile both TSF components
+        shell: pwsh
+        run: |
+          cmake -S windows -B windows/build/cmake-x64 -A x64
+          if ($LASTEXITCODE) { exit $LASTEXITCODE }
+          cmake --build windows/build/cmake-x64 --config Release
+          if ($LASTEXITCODE) { exit $LASTEXITCODE }
+          cmake -S windows -B windows/build/cmake-x86 -A Win32
+          if ($LASTEXITCODE) { exit $LASTEXITCODE }
+          cmake --build windows/build/cmake-x86 --config Release
+          if ($LASTEXITCODE) { exit $LASTEXITCODE }
+          foreach ($arch in 'x64','x86') {
+            New-Item -ItemType Directory -Force "windows/build/$arch" | Out-Null
+            Copy-Item "windows/build/cmake-$arch/Release/Shunwei.dll" "windows/build/$arch/"
+            Copy-Item "windows/build/cmake-$arch/Release/engine-check.exe" "windows/build/$arch/"
+            & "windows/build/$arch/engine-check.exe" "windows/build/data"
+            if ($LASTEXITCODE) { exit $LASTEXITCODE }
+          }
+      - name: Build EXE installer
+        shell: pwsh
+        run: |
+          New-Item -ItemType Directory -Force releases | Out-Null
+          $nsis = "${env:ProgramFiles(x86)}/NSIS/makensis.exe"
+          if (!(Test-Path $nsis)) { choco install nsis --yes --no-progress }
+          & $nsis /V2 windows/installer.nsi
+          if ($LASTEXITCODE) { exit $LASTEXITCODE }
+      - uses: actions/upload-artifact@v4
+        with:
+          name: Windows-system-IME-setup
+          path: releases/*.exe

@@ -1,0 +1,18 @@
+{
+  "ai": "AI",
+  "api": "API",
+  "ui": "UI",
+  "ux": "UX",
+  "html": "HTML",
+  "css": "CSS",
+  "json": "JSON",
+  "gpt": "GPT",
+  "sql": "SQL",
+  "pdf": "PDF",
+  "ppt": "PPT",
+  "cpu": "CPU",
+  "gpu": "GPU",
+  "python": "Python",
+  "javascript": "JavaScript",
+  "typescript": "TypeScript"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "smart-ime",
+  "version": "0.2.0-dev",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite web --host 127.0.0.1",
+    "build": "tsc --noEmit && vite build web && esbuild web/src/core/native.ts --bundle --format=iife --global-name=SmartEngine --outfile=macos/build/engine.js",
+    "test": "tsx --test tests/*.test.ts",
+    "validate-data": "python3 scripts/validate_data.py",
+    "build:mac": "bash scripts/build-mac.sh",
+    "package:mac": "bash scripts/package-mac.sh",
+    "build:windows:cross": "bash scripts/build-windows-cross.sh",
+    "package:windows": "makensis -V2 windows/installer.nsi"
+  },
+  "devDependencies": {
+    "@types/node": "24.7.1",
+    "esbuild": "0.25.10",
+    "tsx": "4.20.6",
+    "typescript": "5.9.3",
+    "vite": "7.3.7"
+  }
+}

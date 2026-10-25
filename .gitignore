@@ -1,0 +1,16 @@
+node_modules/
+web/dist/
+macos/build/
+windows/build/
+releases/
+.tools/
+output/
+.playwright-cli/
+.DS_Store
+.env
+.env.*
+!.env.example
+.npmrc
+*.p12
+*.pfx
+*.mobileprovision

@@ -1,0 +1,3458 @@
+[
+  {
+    "canonical": "a",
+    "keyboardAliases": [
+      "a"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "ai",
+    "keyboardAliases": [
+      "ai"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "an",
+    "keyboardAliases": [
+      "an"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "ang",
+    "keyboardAliases": [
+      "ang"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "ao",
+    "keyboardAliases": [
+      "ao"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "ba",
+    "keyboardAliases": [
+      "ba"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "bai",
+    "keyboardAliases": [
+      "bai"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "baike",
+    "keyboardAliases": [
+      "baike"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "baimi",
+    "keyboardAliases": [
+      "baimi"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "baiwa",
+    "keyboardAliases": [
+      "baiwa"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "ban",
+    "keyboardAliases": [
+      "ban"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "bang",
+    "keyboardAliases": [
+      "bang"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "bao",
+    "keyboardAliases": [
+      "bao"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "bei",
+    "keyboardAliases": [
+      "bei"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "ben",
+    "keyboardAliases": [
+      "ben"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "beng",
+    "keyboardAliases": [
+      "beng"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "bi",
+    "keyboardAliases": [
+      "bi"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "bia",
+    "keyboardAliases": [
+      "bia"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "bian",
+    "keyboardAliases": [
+      "bian"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "biao",
+    "keyboardAliases": [
+      "biao"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "bie",
+    "keyboardAliases": [
+      "bie"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "bin",
+    "keyboardAliases": [
+      "bin"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "bing",
+    "keyboardAliases": [
+      "bing"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "bo",
+    "keyboardAliases": [
+      "bo"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "bu",
+    "keyboardAliases": [
+      "bu"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "ca",
+    "keyboardAliases": [
+      "ca"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "cai",
+    "keyboardAliases": [
+      "cai"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "can",
+    "keyboardAliases": [
+      "can"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "cang",
+    "keyboardAliases": [
+      "cang"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "cao",
+    "keyboardAliases": [
+      "cao"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "ce",
+    "keyboardAliases": [
+      "ce"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "cen",
+    "keyboardAliases": [
+      "cen"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "ceng",
+    "keyboardAliases": [
+      "ceng"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "cha",
+    "keyboardAliases": [
+      "cha"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "chai",
+    "keyboardAliases": [
+      "chai"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "chan",
+    "keyboardAliases": [
+      "chan"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "chang",
+    "keyboardAliases": [
+      "chang"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "chao",
+    "keyboardAliases": [
+      "chao"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "che",
+    "keyboardAliases": [
+      "che"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "chen",
+    "keyboardAliases": [
+      "chen"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "cheng",
+    "keyboardAliases": [
+      "cheng"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "chi",
+    "keyboardAliases": [
+      "chi"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "chong",
+    "keyboardAliases": [
+      "chong"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "chou",
+    "keyboardAliases": [
+      "chou"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "chu",
+    "keyboardAliases": [
+      "chu"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "chua",
+    "keyboardAliases": [
+      "chua"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "chuai",
+    "keyboardAliases": [
+      "chuai"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "chuan",
+    "keyboardAliases": [
+      "chuan"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "chuang",
+    "keyboardAliases": [
+      "chuang"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "chui",
+    "keyboardAliases": [
+      "chui"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "chun",
+    "keyboardAliases": [
+      "chun"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "chuo",
+    "keyboardAliases": [
+      "chuo"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "ci",
+    "keyboardAliases": [
+      "ci"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "cong",
+    "keyboardAliases": [
+      "cong"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "cou",
+    "keyboardAliases": [
+      "cou"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "cu",
+    "keyboardAliases": [
+      "cu"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "cuan",
+    "keyboardAliases": [
+      "cuan"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "cui",
+    "keyboardAliases": [
+      "cui"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "cun",
+    "keyboardAliases": [
+      "cun"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "cuo",
+    "keyboardAliases": [
+      "cuo"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "da",
+    "keyboardAliases": [
+      "da"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "dai",
+    "keyboardAliases": [
+      "dai"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "dan",
+    "keyboardAliases": [
+      "dan"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "dang",
+    "keyboardAliases": [
+      "dang"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "dao",
+    "keyboardAliases": [
+      "dao"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "de",
+    "keyboardAliases": [
+      "de"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "dei",
+    "keyboardAliases": [
+      "dei"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "den",
+    "keyboardAliases": [
+      "den"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "deng",
+    "keyboardAliases": [
+      "deng"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "di",
+    "keyboardAliases": [
+      "di"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "dia",
+    "keyboardAliases": [
+      "dia"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "dian",
+    "keyboardAliases": [
+      "dian"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "diao",
+    "keyboardAliases": [
+      "diao"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "die",
+    "keyboardAliases": [
+      "die"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "ding",
+    "keyboardAliases": [
+      "ding"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "diu",
+    "keyboardAliases": [
+      "diu"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "dong",
+    "keyboardAliases": [
+      "dong"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "dou",
+    "keyboardAliases": [
+      "dou"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "du",
+    "keyboardAliases": [
+      "du"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "duan",
+    "keyboardAliases": [
+      "duan"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "dui",
+    "keyboardAliases": [
+      "dui"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "dun",
+    "keyboardAliases": [
+      "dun"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "duo",
+    "keyboardAliases": [
+      "duo"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "e",
+    "keyboardAliases": [
+      "e"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "ei",
+    "keyboardAliases": [
+      "ei"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "en",
+    "keyboardAliases": [
+      "en"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "eng",
+    "keyboardAliases": [
+      "eng"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "er",
+    "keyboardAliases": [
+      "er"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "fa",
+    "keyboardAliases": [
+      "fa"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "fan",
+    "keyboardAliases": [
+      "fan"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "fang",
+    "keyboardAliases": [
+      "fang"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "fei",
+    "keyboardAliases": [
+      "fei"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "fen",
+    "keyboardAliases": [
+      "fen"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "feng",
+    "keyboardAliases": [
+      "feng"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "fenke",
+    "keyboardAliases": [
+      "fenke"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "fenwa",
+    "keyboardAliases": [
+      "fenwa"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "fiao",
+    "keyboardAliases": [
+      "fiao"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "fo",
+    "keyboardAliases": [
+      "fo"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "fou",
+    "keyboardAliases": [
+      "fou"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "fu",
+    "keyboardAliases": [
+      "fu"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "ga",
+    "keyboardAliases": [
+      "ga"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "gai",
+    "keyboardAliases": [
+      "gai"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "gan",
+    "keyboardAliases": [
+      "gan"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "gang",
+    "keyboardAliases": [
+      "gang"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "gao",
+    "keyboardAliases": [
+      "gao"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "ge",
+    "keyboardAliases": [
+      "ge"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "gei",
+    "keyboardAliases": [
+      "gei"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "gen",
+    "keyboardAliases": [
+      "gen"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "geng",
+    "keyboardAliases": [
+      "geng"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "gong",
+    "keyboardAliases": [
+      "gong"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "gou",
+    "keyboardAliases": [
+      "gou"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "gu",
+    "keyboardAliases": [
+      "gu"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "gua",
+    "keyboardAliases": [
+      "gua"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "guai",
+    "keyboardAliases": [
+      "guai"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "guan",
+    "keyboardAliases": [
+      "guan"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "guang",
+    "keyboardAliases": [
+      "guang"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "gui",
+    "keyboardAliases": [
+      "gui"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "gun",
+    "keyboardAliases": [
+      "gun"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "guo",
+    "keyboardAliases": [
+      "guo"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "ha",
+    "keyboardAliases": [
+      "ha"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "hai",
+    "keyboardAliases": [
+      "hai"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "han",
+    "keyboardAliases": [
+      "han"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "hang",
+    "keyboardAliases": [
+      "hang"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "hao",
+    "keyboardAliases": [
+      "hao"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "haoke",
+    "keyboardAliases": [
+      "haoke"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "haowa",
+    "keyboardAliases": [
+      "haowa"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "he",
+    "keyboardAliases": [
+      "he"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "hei",
+    "keyboardAliases": [
+      "hei"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "hen",
+    "keyboardAliases": [
+      "hen"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "heng",
+    "keyboardAliases": [
+      "heng"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "hm",
+    "keyboardAliases": [
+      "hm"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "hng",
+    "keyboardAliases": [
+      "hng"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "hong",
+    "keyboardAliases": [
+      "hong"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "hou",
+    "keyboardAliases": [
+      "hou"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "hu",
+    "keyboardAliases": [
+      "hu"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "hua",
+    "keyboardAliases": [
+      "hua"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "huai",
+    "keyboardAliases": [
+      "huai"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "huan",
+    "keyboardAliases": [
+      "huan"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "huang",
+    "keyboardAliases": [
+      "huang"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "hui",
+    "keyboardAliases": [
+      "hui"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "hun",
+    "keyboardAliases": [
+      "hun"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "huo",
+    "keyboardAliases": [
+      "huo"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "ji",
+    "keyboardAliases": [
+      "ji"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "jia",
+    "keyboardAliases": [
+      "jia"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "jian",
+    "keyboardAliases": [
+      "jian"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "jiang",
+    "keyboardAliases": [
+      "jiang"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "jiao",
+    "keyboardAliases": [
+      "jiao"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "jie",
+    "keyboardAliases": [
+      "jie"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "jin",
+    "keyboardAliases": [
+      "jin"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "jing",
+    "keyboardAliases": [
+      "jing"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "jiong",
+    "keyboardAliases": [
+      "jiong"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "jiu",
+    "keyboardAliases": [
+      "jiu"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "ju",
+    "keyboardAliases": [
+      "ju"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "juan",
+    "keyboardAliases": [
+      "juan"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "jue",
+    "keyboardAliases": [
+      "jue"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "jun",
+    "keyboardAliases": [
+      "jun"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "ka",
+    "keyboardAliases": [
+      "ka"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "kai",
+    "keyboardAliases": [
+      "kai"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "kan",
+    "keyboardAliases": [
+      "kan"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "kang",
+    "keyboardAliases": [
+      "kang"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "kao",
+    "keyboardAliases": [
+      "kao"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "ke",
+    "keyboardAliases": [
+      "ke"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "kei",
+    "keyboardAliases": [
+      "kei"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "ken",
+    "keyboardAliases": [
+      "ken"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "keng",
+    "keyboardAliases": [
+      "keng"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "kong",
+    "keyboardAliases": [
+      "kong"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "kou",
+    "keyboardAliases": [
+      "kou"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "ku",
+    "keyboardAliases": [
+      "ku"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "kua",
+    "keyboardAliases": [
+      "kua"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "kuai",
+    "keyboardAliases": [
+      "kuai"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "kuan",
+    "keyboardAliases": [
+      "kuan"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "kuang",
+    "keyboardAliases": [
+      "kuang"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "kui",
+    "keyboardAliases": [
+      "kui"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "kun",
+    "keyboardAliases": [
+      "kun"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "kuo",
+    "keyboardAliases": [
+      "kuo"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "la",
+    "keyboardAliases": [
+      "la"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "lai",
+    "keyboardAliases": [
+      "lai"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "lan",
+    "keyboardAliases": [
+      "lan"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "lang",
+    "keyboardAliases": [
+      "lang"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "lao",
+    "keyboardAliases": [
+      "lao"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "le",
+    "keyboardAliases": [
+      "le"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "lei",
+    "keyboardAliases": [
+      "lei"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "leng",
+    "keyboardAliases": [
+      "leng"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "li",
+    "keyboardAliases": [
+      "li"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "lia",
+    "keyboardAliases": [
+      "lia"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "lian",
+    "keyboardAliases": [
+      "lian"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "liang",
+    "keyboardAliases": [
+      "liang"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "liao",
+    "keyboardAliases": [
+      "liao"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "lie",
+    "keyboardAliases": [
+      "lie"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "like",
+    "keyboardAliases": [
+      "like"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "lin",
+    "keyboardAliases": [
+      "lin"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "ling",
+    "keyboardAliases": [
+      "ling"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "liu",
+    "keyboardAliases": [
+      "liu"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "liwa",
+    "keyboardAliases": [
+      "liwa"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "lo",
+    "keyboardAliases": [
+      "lo"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "long",
+    "keyboardAliases": [
+      "long"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "lou",
+    "keyboardAliases": [
+      "lou"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "lu",
+    "keyboardAliases": [
+      "lu"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "luan",
+    "keyboardAliases": [
+      "luan"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "lun",
+    "keyboardAliases": [
+      "lun"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "luo",
+    "keyboardAliases": [
+      "luo"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "lü",
+    "keyboardAliases": [
+      "lv"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "lüe",
+    "keyboardAliases": [
+      "lve"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "m",
+    "keyboardAliases": [
+      "m"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "ma",
+    "keyboardAliases": [
+      "ma"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "mai",
+    "keyboardAliases": [
+      "mai"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "man",
+    "keyboardAliases": [
+      "man"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "mang",
+    "keyboardAliases": [
+      "mang"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "mao",
+    "keyboardAliases": [
+      "mao"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "me",
+    "keyboardAliases": [
+      "me"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "mei",
+    "keyboardAliases": [
+      "mei"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "men",
+    "keyboardAliases": [
+      "men"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "meng",
+    "keyboardAliases": [
+      "meng"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "mi",
+    "keyboardAliases": [
+      "mi"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "mian",
+    "keyboardAliases": [
+      "mian"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "miao",
+    "keyboardAliases": [
+      "miao"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "mie",
+    "keyboardAliases": [
+      "mie"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "min",
+    "keyboardAliases": [
+      "min"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "ming",
+    "keyboardAliases": [
+      "ming"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "miu",
+    "keyboardAliases": [
+      "miu"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "mo",
+    "keyboardAliases": [
+      "mo"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "mou",
+    "keyboardAliases": [
+      "mou"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "mu",
+    "keyboardAliases": [
+      "mu"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "na",
+    "keyboardAliases": [
+      "na"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "nai",
+    "keyboardAliases": [
+      "nai"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "nan",
+    "keyboardAliases": [
+      "nan"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "nang",
+    "keyboardAliases": [
+      "nang"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "nao",
+    "keyboardAliases": [
+      "nao"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "ne",
+    "keyboardAliases": [
+      "ne"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "nei",
+    "keyboardAliases": [
+      "nei"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "nen",
+    "keyboardAliases": [
+      "nen"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "neng",
+    "keyboardAliases": [
+      "neng"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "ni",
+    "keyboardAliases": [
+      "ni"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "nian",
+    "keyboardAliases": [
+      "nian"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "niang",
+    "keyboardAliases": [
+      "niang"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "niao",
+    "keyboardAliases": [
+      "niao"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "nie",
+    "keyboardAliases": [
+      "nie"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "nin",
+    "keyboardAliases": [
+      "nin"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "ning",
+    "keyboardAliases": [
+      "ning"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "niu",
+    "keyboardAliases": [
+      "niu"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "nong",
+    "keyboardAliases": [
+      "nong"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "nou",
+    "keyboardAliases": [
+      "nou"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "nu",
+    "keyboardAliases": [
+      "nu"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "nuan",
+    "keyboardAliases": [
+      "nuan"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "nun",
+    "keyboardAliases": [
+      "nun"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "nuo",
+    "keyboardAliases": [
+      "nuo"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "nü",
+    "keyboardAliases": [
+      "nv"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "nüe",
+    "keyboardAliases": [
+      "nve"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "o",
+    "keyboardAliases": [
+      "o"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "ou",
+    "keyboardAliases": [
+      "ou"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "pa",
+    "keyboardAliases": [
+      "pa"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "pai",
+    "keyboardAliases": [
+      "pai"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "pan",
+    "keyboardAliases": [
+      "pan"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "pang",
+    "keyboardAliases": [
+      "pang"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "pao",
+    "keyboardAliases": [
+      "pao"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "pei",
+    "keyboardAliases": [
+      "pei"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "pen",
+    "keyboardAliases": [
+      "pen"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "peng",
+    "keyboardAliases": [
+      "peng"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "pi",
+    "keyboardAliases": [
+      "pi"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "pian",
+    "keyboardAliases": [
+      "pian"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "piao",
+    "keyboardAliases": [
+      "piao"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "pie",
+    "keyboardAliases": [
+      "pie"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "pin",
+    "keyboardAliases": [
+      "pin"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "ping",
+    "keyboardAliases": [
+      "ping"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "po",
+    "keyboardAliases": [
+      "po"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "pou",
+    "keyboardAliases": [
+      "pou"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "pu",
+    "keyboardAliases": [
+      "pu"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "qi",
+    "keyboardAliases": [
+      "qi"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "qia",
+    "keyboardAliases": [
+      "qia"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "qian",
+    "keyboardAliases": [
+      "qian"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "qiang",
+    "keyboardAliases": [
+      "qiang"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "qianke",
+    "keyboardAliases": [
+      "qianke"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "qianwa",
+    "keyboardAliases": [
+      "qianwa"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "qiao",
+    "keyboardAliases": [
+      "qiao"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "qie",
+    "keyboardAliases": [
+      "qie"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "qin",
+    "keyboardAliases": [
+      "qin"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "qing",
+    "keyboardAliases": [
+      "qing"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "qiong",
+    "keyboardAliases": [
+      "qiong"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "qiu",
+    "keyboardAliases": [
+      "qiu"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "qu",
+    "keyboardAliases": [
+      "qu"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "quan",
+    "keyboardAliases": [
+      "quan"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "que",
+    "keyboardAliases": [
+      "que"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "qun",
+    "keyboardAliases": [
+      "qun"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "r",
+    "keyboardAliases": [
+      "r"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "ran",
+    "keyboardAliases": [
+      "ran"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "rang",
+    "keyboardAliases": [
+      "rang"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "rao",
+    "keyboardAliases": [
+      "rao"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "re",
+    "keyboardAliases": [
+      "re"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "ren",
+    "keyboardAliases": [
+      "ren"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "reng",
+    "keyboardAliases": [
+      "reng"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "ri",
+    "keyboardAliases": [
+      "ri"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "rong",
+    "keyboardAliases": [
+      "rong"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "rou",
+    "keyboardAliases": [
+      "rou"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "ru",
+    "keyboardAliases": [
+      "ru"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "rua",
+    "keyboardAliases": [
+      "rua"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "ruan",
+    "keyboardAliases": [
+      "ruan"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "rui",
+    "keyboardAliases": [
+      "rui"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "run",
+    "keyboardAliases": [
+      "run"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "ruo",
+    "keyboardAliases": [
+      "ruo"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "sa",
+    "keyboardAliases": [
+      "sa"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "sai",
+    "keyboardAliases": [
+      "sai"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "san",
+    "keyboardAliases": [
+      "san"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "sang",
+    "keyboardAliases": [
+      "sang"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "sao",
+    "keyboardAliases": [
+      "sao"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "se",
+    "keyboardAliases": [
+      "se"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "sen",
+    "keyboardAliases": [
+      "sen"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "seng",
+    "keyboardAliases": [
+      "seng"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "sha",
+    "keyboardAliases": [
+      "sha"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "shai",
+    "keyboardAliases": [
+      "shai"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "shan",
+    "keyboardAliases": [
+      "shan"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "shang",
+    "keyboardAliases": [
+      "shang"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "shao",
+    "keyboardAliases": [
+      "shao"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "she",
+    "keyboardAliases": [
+      "she"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "shei",
+    "keyboardAliases": [
+      "shei"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "shen",
+    "keyboardAliases": [
+      "shen"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "sheng",
+    "keyboardAliases": [
+      "sheng"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "shi",
+    "keyboardAliases": [
+      "shi"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "shike",
+    "keyboardAliases": [
+      "shike"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "shiwa",
+    "keyboardAliases": [
+      "shiwa"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "shou",
+    "keyboardAliases": [
+      "shou"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "shu",
+    "keyboardAliases": [
+      "shu"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "shua",
+    "keyboardAliases": [
+      "shua"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "shuai",
+    "keyboardAliases": [
+      "shuai"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "shuan",
+    "keyboardAliases": [
+      "shuan"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "shuang",
+    "keyboardAliases": [
+      "shuang"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "shui",
+    "keyboardAliases": [
+      "shui"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "shun",
+    "keyboardAliases": [
+      "shun"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "shuo",
+    "keyboardAliases": [
+      "shuo"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "si",
+    "keyboardAliases": [
+      "si"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "song",
+    "keyboardAliases": [
+      "song"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "sou",
+    "keyboardAliases": [
+      "sou"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "su",
+    "keyboardAliases": [
+      "su"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "suan",
+    "keyboardAliases": [
+      "suan"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "sui",
+    "keyboardAliases": [
+      "sui"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "sun",
+    "keyboardAliases": [
+      "sun"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "suo",
+    "keyboardAliases": [
+      "suo"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "ta",
+    "keyboardAliases": [
+      "ta"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "tai",
+    "keyboardAliases": [
+      "tai"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "tan",
+    "keyboardAliases": [
+      "tan"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "tang",
+    "keyboardAliases": [
+      "tang"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "tao",
+    "keyboardAliases": [
+      "tao"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "te",
+    "keyboardAliases": [
+      "te"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "tei",
+    "keyboardAliases": [
+      "tei"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "teng",
+    "keyboardAliases": [
+      "teng"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "ti",
+    "keyboardAliases": [
+      "ti"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "tian",
+    "keyboardAliases": [
+      "tian"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "tiao",
+    "keyboardAliases": [
+      "tiao"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "tie",
+    "keyboardAliases": [
+      "tie"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "ting",
+    "keyboardAliases": [
+      "ting"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "tong",
+    "keyboardAliases": [
+      "tong"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "tou",
+    "keyboardAliases": [
+      "tou"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "tu",
+    "keyboardAliases": [
+      "tu"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "tuan",
+    "keyboardAliases": [
+      "tuan"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "tui",
+    "keyboardAliases": [
+      "tui"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "tun",
+    "keyboardAliases": [
+      "tun"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "tuo",
+    "keyboardAliases": [
+      "tuo"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "wa",
+    "keyboardAliases": [
+      "wa"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "wai",
+    "keyboardAliases": [
+      "wai"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "wan",
+    "keyboardAliases": [
+      "wan"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "wang",
+    "keyboardAliases": [
+      "wang"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "wei",
+    "keyboardAliases": [
+      "wei"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "wen",
+    "keyboardAliases": [
+      "wen"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "weng",
+    "keyboardAliases": [
+      "weng"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "wo",
+    "keyboardAliases": [
+      "wo"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "wu",
+    "keyboardAliases": [
+      "wu"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "xi",
+    "keyboardAliases": [
+      "xi"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "xia",
+    "keyboardAliases": [
+      "xia"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "xian",
+    "keyboardAliases": [
+      "xian"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "xiang",
+    "keyboardAliases": [
+      "xiang"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "xiao",
+    "keyboardAliases": [
+      "xiao"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "xie",
+    "keyboardAliases": [
+      "xie"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "xin",
+    "keyboardAliases": [
+      "xin"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "xing",
+    "keyboardAliases": [
+      "xing"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "xiong",
+    "keyboardAliases": [
+      "xiong"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "xiu",
+    "keyboardAliases": [
+      "xiu"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "xu",
+    "keyboardAliases": [
+      "xu"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "xuan",
+    "keyboardAliases": [
+      "xuan"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "xue",
+    "keyboardAliases": [
+      "xue"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "xun",
+    "keyboardAliases": [
+      "xun"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "xx",
+    "keyboardAliases": [
+      "xx"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "ya",
+    "keyboardAliases": [
+      "ya"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "yan",
+    "keyboardAliases": [
+      "yan"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "yang",
+    "keyboardAliases": [
+      "yang"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "yao",
+    "keyboardAliases": [
+      "yao"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "ye",
+    "keyboardAliases": [
+      "ye"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "yi",
+    "keyboardAliases": [
+      "yi"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "yin",
+    "keyboardAliases": [
+      "yin"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "ying",
+    "keyboardAliases": [
+      "ying"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "yo",
+    "keyboardAliases": [
+      "yo"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "yong",
+    "keyboardAliases": [
+      "yong"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "you",
+    "keyboardAliases": [
+      "you"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "yu",
+    "keyboardAliases": [
+      "yu"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "yuan",
+    "keyboardAliases": [
+      "yuan"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "yue",
+    "keyboardAliases": [
+      "yue"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "yun",
+    "keyboardAliases": [
+      "yun"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "za",
+    "keyboardAliases": [
+      "za"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "zai",
+    "keyboardAliases": [
+      "zai"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "zan",
+    "keyboardAliases": [
+      "zan"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "zang",
+    "keyboardAliases": [
+      "zang"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "zao",
+    "keyboardAliases": [
+      "zao"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "ze",
+    "keyboardAliases": [
+      "ze"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "zei",
+    "keyboardAliases": [
+      "zei"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "zen",
+    "keyboardAliases": [
+      "zen"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "zeng",
+    "keyboardAliases": [
+      "zeng"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "zha",
+    "keyboardAliases": [
+      "zha"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "zhai",
+    "keyboardAliases": [
+      "zhai"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "zhan",
+    "keyboardAliases": [
+      "zhan"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "zhang",
+    "keyboardAliases": [
+      "zhang"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "zhao",
+    "keyboardAliases": [
+      "zhao"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "zhe",
+    "keyboardAliases": [
+      "zhe"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "zhei",
+    "keyboardAliases": [
+      "zhei"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "zhen",
+    "keyboardAliases": [
+      "zhen"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "zheng",
+    "keyboardAliases": [
+      "zheng"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "zhi",
+    "keyboardAliases": [
+      "zhi"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "zhong",
+    "keyboardAliases": [
+      "zhong"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "zhou",
+    "keyboardAliases": [
+      "zhou"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "zhu",
+    "keyboardAliases": [
+      "zhu"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "zhua",
+    "keyboardAliases": [
+      "zhua"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "zhuai",
+    "keyboardAliases": [
+      "zhuai"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "zhuan",
+    "keyboardAliases": [
+      "zhuan"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "zhuang",
+    "keyboardAliases": [
+      "zhuang"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "zhui",
+    "keyboardAliases": [
+      "zhui"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "zhun",
+    "keyboardAliases": [
+      "zhun"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "zhuo",
+    "keyboardAliases": [
+      "zhuo"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "zi",
+    "keyboardAliases": [
+      "zi"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "zong",
+    "keyboardAliases": [
+      "zong"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "zou",
+    "keyboardAliases": [
+      "zou"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "zu",
+    "keyboardAliases": [
+      "zu"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "zuan",
+    "keyboardAliases": [
+      "zuan"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "zui",
+    "keyboardAliases": [
+      "zui"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "zun",
+    "keyboardAliases": [
+      "zun"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  },
+  {
+    "canonical": "zuo",
+    "keyboardAliases": [
+      "zuo"
+    ],
+    "sourceId": "cc-cedict",
+    "reviewStatus": "pending"
+  }
+]

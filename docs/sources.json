@@ -1,0 +1,42 @@
+{
+  "sources": [
+    {
+      "id": "cc-cedict",
+      "url": "https://www.mdbg.net/chinese/export/cedict/cedict_1_0_ts_utf-8_mdbg.txt.gz",
+      "license": "CC-BY-SA-4.0",
+      "retrievedAt": "2026-10-09",
+      "file": "data/upstream/cedict.txt.gz",
+      "sha256": "dd2307775fd21f5d350e6cb0e6a946bfe2eaedd79bb9ce524a67e7fccddf6a8f",
+      "reviewStatus": "source header checked; teaching review pending"
+    },
+    {
+      "id": "jieba",
+      "url": "https://github.com/fxsjy/jieba",
+      "license": "MIT",
+      "retrievedAt": "2026-10-09",
+      "file": "data/upstream/jieba.txt",
+      "sha256": "7197c3211ddd98962b036cdf40324d1ea2bfaa12bd028e68faa70111a88e12a8",
+      "reviewStatus": "source header checked; teaching review pending"
+    },
+    {
+      "id": "cmudict",
+      "url": "https://github.com/cmusphinx/cmudict",
+      "license": "BSD-style",
+      "retrievedAt": "2026-10-09",
+      "file": "data/upstream/cmudict.dict",
+      "sha256": "81917843c7f44ce2b094ac63873c2c7a4cf802040792c455ba3ca406891c3d22",
+      "reviewStatus": "source header checked; teaching review pending"
+    },
+    {
+      "id": "project-abbreviations",
+      "license": "project-authored factual labels",
+      "note": "常用技术缩写；不是英文词频或教学规范"
+    }
+  ],
+  "counts": {
+    "chinese": 90149,
+    "english": 117493,
+    "syllables": 432
+  },
+  "transform": "CC-CEDICT 简体词及无调读音，筛选 jieba 频次≥2的多字词；单字保留。派生中文数据按 CC-BY-SA-4.0 提供。音节表是词库抽取的输入识别表，未经完整规范/教学审核。"
+}

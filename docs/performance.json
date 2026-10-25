@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-09",
+  "environment": "v24.14.0",
+  "platform": "darwin",
+  "arch": "arm64",
+  "samples": 288,
+  "inputRange": "short development scenarios, not held-out accuracy set",
+  "p50Ms": 0.10962500000005093,
+  "p95Ms": 2.1655420000000163,
+  "maxMs": 7.519166999999982,
+  "coldStartup": "not included",
+  "model": "no neural model"
+}
